@@ -21,9 +21,9 @@ pentru cei ce doresc sa afle mai multe despre ["versiunea semantica"](http://sem
 
   ```php
   <?php
-    $username = "user@mymail.local";
-    $password = "myp@ss123";
-    $confirm  = "myp@ss123";
+    $username_input = "user@mymail.local";
+    $password_input = "myp@ss123";
+    $confirm__input = "myp@ss123";
     // ... ???
   ?>
   ```
