@@ -1,6 +1,6 @@
 # THIS REPO IS TO TRAIN STUDENTS ON DIFFERENT WEB TECHNOLOGIES
 
-### * By continuing to use this repo, you agree to the [MODIFIED MIT LICENSE](LICENCE).
+### * By continuing to use this repo, you agree to the [MODIFIED MIT LICENSE](./LICENCE).
 
 
 
