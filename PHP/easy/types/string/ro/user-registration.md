@@ -2,7 +2,7 @@
 Sa presupunem ca urmatoarele 3 variabile isi iau valorile din campurile unui formular de inregistrare
 
   ```php
-  <?php
+  <?phpsha
     $username_input = "user@mymail.local";
     $password_input = "myp@ss123";
     $confirm__input = "myp@ss123";
