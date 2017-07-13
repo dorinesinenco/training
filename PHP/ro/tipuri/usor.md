@@ -1,6 +1,7 @@
 # Exercitii cu tipuri de date, valori si variabile
 
-1. ### Fiind dat urmatorul fragment de cod
+1. Exercitiu
+### Fiind dat urmatorul fragment de cod
   ```php
   <?php
     $version_old    = "1.0.0";
@@ -15,7 +16,9 @@
     acest exemplu presupune lucrul cu tipul de date "string"
     pentru cei ce doresc sa afle mai multe despre ["versiunea semantica"](http://semver.org/)
 
-2. ### Sa presupunem ca urmatoarele 3 variabile isi iau valorile din campurile unui formular de inregistrare
+2. Exercitiu
+### Sa presupunem ca urmatoarele 3 variabile isi iau valorile din campurile unui formular de inregistrare
+
   ```php
   <?php
     $username = "user@mymail.local";
@@ -24,6 +27,7 @@
     // ... ???
   ?>
   ```
+
   Sa se scrie continuarea acestui fragment de cod in asa mod incat:
     * Sa se afiseze "registration complete" doar in cazurile in care:
       1. Toate trei campurile au fost completate (au cel putin 3 simboluri fiecare)
@@ -34,4 +38,4 @@
 ---
 
 acest exemplu presupune lucrul cu tipul de date "string", structurile "if/else" si operatori de
-comparare si logici 
+comparare si logici
