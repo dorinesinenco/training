@@ -15,4 +15,4 @@
 
 
 
-Copyright (C) 2017, Dorin E. @ [vanar training center](http://vanar.md)
+Copyright (C) 2018, Dorin E. & Kate D. @ [vanar training center](http://vanar.md)
